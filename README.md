@@ -14,17 +14,17 @@ pip install cartopy
 
 
 
-For Quantum Projects
+## For Quantum Projects
 
 pip install qiskit
 
 
-For Falling Sand or Bouncing Ball
+## For Falling Sand or Bouncing Ball
 
 pip install pygame
 
 
-For Key Signature Identifier
+## For Key Signature Identifier
 
 pip install librosa
 
